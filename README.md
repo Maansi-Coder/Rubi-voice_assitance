@@ -30,3 +30,9 @@ Rubi is an AI assistant developed in Python, with various features such as voice
 - `mysql.connector`: MySQL database connectivity.
 - `PyQt5`: GUI development with Qt Designer-generated interface.
 - `pickle`: Object serialization.
+
+## Screenshot of project
+![Rubi](https://github.com/Maansi-Coder/Rubi-voice_assitance/blob/master/Rubi.jpg)
+
+## Demo video:
+link : https://tinyurl.com/2y8ckjxo
