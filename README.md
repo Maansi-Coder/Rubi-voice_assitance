@@ -1,6 +1,6 @@
-# Rubi - AI Assistant
+# Rubi - Personalised Assistant
 
-Rubi is an AI assistant developed in Python, with various features such as voice recognition, web automation, PDF reading, contact management, and more. The project uses PyQt5 for the graphical user interface (GUI), allowing a user-friendly experience.
+Rubi is an Personalised assistant developed in Python, with various features such as voice recognition, web automation, PDF reading, contact management, and more. The project uses PyQt5 for the graphical user interface (GUI), allowing a user-friendly experience.
 
 ## Features
 
